@@ -1,6 +1,6 @@
 # angular-leaflet
 
-Simple example of how to use [Angular](https://angular.io/) 14 and [Leaflet](https://leafletjs.com/) 1.8.
+Example of how to use [Angular](https://angular.io/) 14 and [Leaflet](https://leafletjs.com/) 1.8.
 
 The project includes a Dockerfile using [PM2](https://pm2.keymetrics.io/) to serve the bundled app. It also implements
 the visualisation of capitals worldwide using [`CircleMarker`](https://leafletjs.com/reference.html#circlemarker). And
