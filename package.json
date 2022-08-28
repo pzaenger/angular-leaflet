@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://github.com/pzaenger/angular-leaflet/issues"
   },
+  "keywords": [
+    "angular",
+    "docker",
+    "leaflet",
+    "pm2"
+  ],
   "homepage": "https://github.com/pzaenger/angular-leaflet#readme",
   "dependencies": {
     "@angular/animations": "^14.1.0",
